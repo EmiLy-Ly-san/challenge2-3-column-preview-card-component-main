@@ -94,9 +94,9 @@ button {
   margin-top: auto;
 }
 
-@media screen and (max-width: 4400px) {
+@media screen and (max-width: 440px) {
   .container {
-    display: block;
+    flex-direction: column;
     min-width: 80%;
   }
   .container-main {
